@@ -4,7 +4,7 @@
       useState
   } from 'react'
   
-  import axios from 'axios'
+  import axios from '../../axios'
   import  nome from "../../assets/name.png"
   import emailpessoa from "../../assets/email.png"
   import rua from "../../assets/rua.png"
