@@ -1,0 +1,28 @@
+.rodape {
+    padding: 2rem;
+    background-color: var(--corPrimaria);
+    color:var(--whiteColor)
+}
+
+.rodape__penso {
+    text-align: center;
+    padding-top: 1rem;
+}
+.rodape__penso span{
+    font-weight: bold;
+}
+.rodape__matheus {
+    text-align:center;
+}
+
+.rodape__matheus img {
+    width: 22px;
+    vertical-align: middle;
+    margin-left: 3px;
+}
+
+.rodape__matheus a {
+    text-decoration: none;
+    font-weight: bold;
+    color: inherit;
+}

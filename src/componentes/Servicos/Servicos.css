@@ -1,0 +1,26 @@
+.servicos{
+    padding: 2rem 5%; 
+    background-color: var(--corSecundaria);
+}
+.servicos__titulo{
+    text-align: center;
+    color: var(--corTextoGrayStrong);
+}
+.servicos__conteudo{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding-left: 0;
+}
+.servicos__itens{
+    list-style: none;
+    margin: 1rem;
+}
+
+@media screen and (max-width:530px) {
+    .servicos__conteudo{
+        flex-direction: column;
+        margin-left: 1.5rem;
+    }
+    
+}

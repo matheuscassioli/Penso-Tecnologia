@@ -1,0 +1,22 @@
+.empresas{ 
+    text-align: center;
+    padding: 4rem 10%;
+    justify-content: center;
+}
+
+.empresas h2{
+    color: var(--corTextoGrayStrong);
+}
+.empresas p{
+    color: var(--corTextoGray);
+    margin-top: 1rem;
+}
+.empresas__logos{
+    padding: 2rem 0 ;
+    display: flex; 
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.empresas__logos img{
+    padding: 1.5rem;
+}

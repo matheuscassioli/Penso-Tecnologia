@@ -1,0 +1,115 @@
+.localizacao {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 8%;
+    background-color: var(--corSecundaria);
+}
+
+.localizacao__img {
+    width: 50%;
+}
+
+.localizacao__img--logo {
+    padding-top: 3rem;
+}
+
+.localizacao__contato {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.localizacao__img--redes {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    padding: 2.5rem 0;
+}
+
+.localizacao__img--redes-linkedin {
+    background-image: url(../../assets/linkedin-blue.png);
+
+}
+
+.localizacao__img--redes-linkedin:hover {
+    background-image: url(../../assets/linkedin-blue-soft.png);
+}
+
+.localizacao__img--redes-youtube {
+    background-image: url(../../assets/you-blue.png);
+}
+
+.localizacao__img--redes-youtube:hover {
+    background-image: url(../../assets/you-red.png);
+}
+
+.localizacao__img--redes-facebook {
+    background-image: url(../../assets/facebook-blue.png);
+}
+
+.localizacao__img--redes-facebook:hover {
+    background-image: url(../../assets/facebook-blue-weigth.png);
+}
+
+.localizacao__img--redes-instagram {
+    background-image: url(../../assets/linkedin-blue.png    );
+}
+
+.localizacao__img--redes-instagram:hover {
+    background-image: url(../../assets/linkedin-blue-soft.png);
+}
+
+.div-rede {
+    width: 45px;
+    height: 46px;
+    background-size: cover;
+    transition: .5s;
+}
+
+.localizacao__contato--endereco {
+    display: flex;
+    flex-direction: column;
+}
+
+.localizacao__contato--endereco p {
+    text-align: end;
+    ;
+}
+
+
+@media screen and (max-width:722px) {
+    .localizacao {
+        flex-direction: column;
+    }
+    .localizacao__contato {
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .localizacao__img {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .localizacao__contato--endereco p {
+        text-align: center;
+    }
+
+    .localizacao__img--logo {
+        padding-top: 0;
+        width: 200px
+    }
+
+    .localizacao__img--redes {
+        margin: auto;
+    }
+}
+
+@media screen and (max-width:343px) {
+    .localizacao__img--redes{
+        width: 100%;
+    }
+}
