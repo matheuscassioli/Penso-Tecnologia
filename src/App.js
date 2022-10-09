@@ -21,7 +21,9 @@ function App() {
 <Empresas/> 
 
 <Localizacao />
+
 </main>
+
 <Rodape />
  
       </div>
