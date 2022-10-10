@@ -3,9 +3,13 @@
 
 - Consumir API fornecido por eles;
 - Filtrar informações;
-- Organizar de forma ascendente
+- Organizar de forma ascendente;
+- Interface amigável utilizando conceitos de UI e UX.
+
 
 ----------------------------------------------------------------
+
+
 
 # Getting Started with Create React App
 
