@@ -1,3 +1,12 @@
+#Projeto Desenvolvido para processo Seletivo Penso Tecnologia 
+## Requisitos solicitados:
+
+- Consumir API fornecido por eles;
+- Filtrar informações;
+- Organizar de forma ascendente
+
+----------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
