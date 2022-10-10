@@ -1,8 +1,10 @@
-# Projeto Desenvolvido para processo Seletivo Penso Tecnologia 
+# Projeto Desenvolvido para processo Seletivo Penso Tecnologia   <img  src ='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+
 ## Requisitos solicitados:
 
 - Consumir API fornecido por eles;
 - Filtrar informações;
+- Mostrar em forma de lista;
 - Organizar de forma ascendente;
 - Interface amigável utilizando conceitos de UI e UX.
 
