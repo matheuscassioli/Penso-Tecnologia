@@ -1,6 +1,9 @@
-# Projeto Desenvolvido para processo Seletivo Penso Tecnologia   <img  src ='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+# Projeto Desenvolvido para processo Seletivo Penso Tecnologia  
 
 ## Requisitos solicitados:
+
+Utilizar 
+HTML CSS  <img  src ='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' /> API
 
 - Consumir API fornecido por eles;
 - Filtrar informações;
